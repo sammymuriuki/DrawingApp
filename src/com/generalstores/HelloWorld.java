@@ -6,6 +6,6 @@ public class HelloWorld {
 		this.message = message;
 	}
 	public void getMessage() {
-		System.out.printLn("Here is your message: "+this.message);
+		System.out.println("Here is your message: "+this.message);
 	}
 }
